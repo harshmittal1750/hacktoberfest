@@ -6,14 +6,14 @@
 
 <div align="center">
 
-<img src= "https://github.com/harshmittal1750/hacktoberfest2022/blob/main/EmailBanners-Dark.png" width= "1200"/>
+<img src= "https://github.com/harshmittal1750/hacktoberfest/blob/main/EmailBanners-Dark.png" width= "1200"/>
 
 <br> <br>
-<a href="https://github.com/harshmittal1750/hacktoberfest2022/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/harshmittal1750/hacktoberfest2022?color=2b9348"></a>
+<a href="https://github.com/harshmittal1750/hacktoberfest/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/harshmittal1750/hacktoberfest?color=2b9348"></a>
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://github.com/harshmittal1750" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
-<a href="https://github.com/harshmittal1750/hacktoberfest2022/pulls"><img src="https://img.shields.io/github/issues-pr/harshmittal1750/hacktoberfest2022" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/harshmittal1750/hacktoberfest/pulls"><img src="https://img.shields.io/github/issues-pr/harshmittal1750/hacktoberfest" alt="Pull Requests Badge"/></a>
 
 <h4> You can make folders of programming languages and also you can contribute in the repo's below.</h4>
 
@@ -21,7 +21,7 @@
 
 If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CONTRIBUTING.md)
 
-Check out `good-first-issues` for contributing [here](https://github.com/harshmittal1750/hacktoberfest2022/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+Check out `good-first-issues` for contributing [here](https://github.com/harshmittal1750/hacktoberfest/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 
 </div>
 
@@ -53,14 +53,14 @@ Check out `good-first-issues` for contributing [here](https://github.com/harshmi
 <h3 style="color:red" >- Clone on your local machine(Mandatory)</h3>
 
 ```
-git clone https://github.com/harshmittal1750/hacktoberfest2022.git
+git clone https://github.com/harshmittal1750/hacktoberfest.git
 
 ```
 
 - Navigate to project directory.
 
 ```
-cd hacktoberfest2022
+cd hacktoberfest
 ```
 
 - Create a new Branch
@@ -96,7 +96,7 @@ git push origin my-new-branch
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
 
 ```terminal
-git remote add upstream https://github.com/harshmittal1750/hacktoberfest2022
+git remote add upstream https://github.com/harshmittal1750/hacktoberfest
 ```
 
 You can verify that the new remote has been added by typing
@@ -118,8 +118,8 @@ For more information on syncing forks [read this article from Github](https://he
 <h4>User can become a contributer by managing documentation as well.
 </h4>
 
-<h4> See also the list of <a href="https://github.com/harshmittal1750/hacktoberfest2022/graphs/contributors">contributors</a> who participated in this project. </h4>
-Please read <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/main/Contributing.md"> CONTRIBUTION.md </a> and <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/main/CODE_OF_CONDUCT.md"> CODE_OF_CONDUCT.md </a> for details on our code of conduct, and the process for submitting pull requests to us.
+<h4> See also the list of <a href="https://github.com/harshmittal1750/hacktoberfest/graphs/contributors">contributors</a> who participated in this project. </h4>
+Please read <a href="https://github.com/harshmittal1750/hacktoberfest/blob/main/Contributing.md"> CONTRIBUTION.md </a> and <a href="https://github.com/harshmittal1750/hacktoberfest/blob/main/CODE_OF_CONDUCT.md"> CODE_OF_CONDUCT.md </a> for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### Rules
 
@@ -157,7 +157,7 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/harshmittal1750"><br /><sub><b>Harsh Mittal</b></sub></a><br /><a href="#" title="Maintenance"> 🚧</a> <a href="https://github.com/harshmittal1750/hacktoberfest2022/commits?author=harshmittal1750" title="Code">💻</a> <a href="#content-harshmittal1750" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/harshmittal1750"><br /><sub><b>Harsh Mittal</b></sub></a><br /><a href="#" title="Maintenance"> 🚧</a> <a href="https://github.com/harshmittal1750/hacktoberfest/commits?author=harshmittal1750" title="Code">💻</a> <a href="#content-harshmittal1750" title="Content">🖋</a></td>
  
   </tbody>
 </table>
@@ -171,8 +171,8 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 
 ## Our Awesome contributors 🤩:
 
-<a href="https://github.com/harshmittal1750/hacktoberfest2022/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=harshmittal1750/hacktoberfest2022" />
+<a href="https://github.com/harshmittal1750/hacktoberfest/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=harshmittal1750/hacktoberfest" />
 </a>
 
 Made with [contributors-img](https://contributors-img.web.app).
